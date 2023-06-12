@@ -32,39 +32,6 @@ To run this project, you need to have the following prerequisites:
 
 1. Clone the repository:
 
-# Django React MySQL CRUD
-
-This is a sample project that demonstrates a CRUD (Create, Read, Update, Delete) application using Django, React, and MySQL. It provides a basic template for building web applications with Django as the backend, React as the frontend, and MySQL as the database.
-
-## Table of Contents
-
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Features
-
-- CRUD operations with Django and React
-- Django REST Framework for API development
-- React components for frontend UI
-- MySQL database for data storage
-- User authentication and authorization
-- Sample templates and static files for demonstration purposes
-
-## Prerequisites
-
-To run this project, you need to have the following prerequisites:
-
-- Docker
-- Docker Compose
-
-## Installation
-
-1. Clone the repository:
-
         git clone https://github.com/analyticalnahid/django-react-mysql-crud.git
 
 
